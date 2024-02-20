@@ -1,7 +1,7 @@
 {
   "name": "@d1dauth/base",
   "version": "7.3.2",
-  "homepage": "https://github.com/SaadMalik310/d1d-Auth",
+  "homepage": "https://github.com/SaadMalik121/base",
   "license": "ISC",
   "main": "dist/base.cjs.js",
   "module": "dist/base.esm.js",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SaadMalik310/d1d-Auth"
+    "url": "git+https://github.com/SaadMalik121/base"
   },
   "keywords": [],
   "publishConfig": {
